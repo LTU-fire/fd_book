@@ -6,13 +6,13 @@ number-sections: true
 
 book:
   title: "Heat transfer in fire engineering"
-  author: "Rhoda Mensah Komeng, Joakim Sandström, Solomon Asante-Okyere, LTU"
+  author: "Oisik Das, LTU"
   
-  repo-url: https://github.com/LTU-fire/ht-book/
+  repo-url: https://github.com/LTU-fire/fd-book/
   repo-subdir: chapters
   repo-branch: main
   repo-actions: [issue]
-  url: https://LTU-fire.github.io/ht-book/
+  url: https://LTU-fire.github.io/fd-book/
   sidebar:
     logo: figures/dragonLogo.png
     search: true
